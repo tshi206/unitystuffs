@@ -92,8 +92,9 @@ public class Shooting : MonoBehaviour
             {
                 if (hit.rigidbody != null)
                 {
+                    float force = hitForce * 0.5f;
                     // Add force to the rigidbody we hit, in the direction from which it was hit
-                    hit.rigidbody.AddForce (-hit.normal * hitForce);
+                    hit.rigidbody.AddForce (-hit.normal * force);
                 }
             }
         }

@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e2441d9-7584-40aa-8eb6-d6b7b0a6133c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/CustomAnimation/GunShot.anim" afterPath="$PROJECT_DIR$/Assets/CustomAnimation/GunShot.anim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/MainScene.unity" afterPath="$PROJECT_DIR$/Assets/MainScene.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" />
@@ -14,21 +10,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptMapper" afterPath="$PROJECT_DIR$/Library/ScriptMapper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/expandedItems" afterPath="$PROJECT_DIR$/Library/expandedItems" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000006100000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/e1/e1d8c3fda104936419ac0e15fedc6c02" afterPath="$PROJECT_DIR$/Library/metadata/e1/e1d8c3fda104936419ac0e15fedc6c02" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.FPS DEMO 5.3.5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.FPS DEMO 5.3.5/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/11/113f37ed89fae544b9d4d9114d682881" afterPath="$PROJECT_DIR$/Library/metadata/11/113f37ed89fae544b9d4d9114d682881" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/BasicBeamShot/Script/MultiShooter.cs" afterPath="$PROJECT_DIR$/Assets/BasicBeamShot/Script/MultiShooter.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs" afterPath="$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FPS DEMO/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterPath="$PROJECT_DIR$/../FPS DEMO/Library/shadercompiler-UnityShaderCompiler.exe0.log" />
     </list>
@@ -42,30 +31,30 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Shooting.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shooting.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="83" column="32" lean-forward="false" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+            <state relative-caret-position="675">
+              <caret line="96" column="65" lean-forward="true" selection-start-line="96" selection-start-column="65" selection-end-line="96" selection-end-column="65" />
               <folding>
-                <marker date="1506844984494" expanded="true" signature="6:44" ph="..." />
-                <marker date="1506844984494" expanded="true" signature="83:5459" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="1640:2089" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="1655:1832" ph="/* Get and store a reference to our LineRenderer component ... */" />
-                <marker date="1506844984494" expanded="true" signature="2115:5060" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="2300:4344" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="2836:3035" ph="/* Set the start position for our visual effect for our laser to the position of gunEnd ... */" />
-                <marker date="1506844984494" expanded="true" signature="3128:4042" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="3159:3783" ph="/* Set the end position for our laser line ... */" />
-                <marker date="1506844984494" expanded="true" signature="3826:4028" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="4059:4334" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="4090:4320" ph="/* If we did not hit anything, set the end of the line to a position directly in front of the camera at the dista ... */" />
-                <marker date="1506844984494" expanded="true" signature="4387:5054" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="4771:5044" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="4828:5030" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="5099:5457" ph="{...}" />
-                <marker date="1506844984494" expanded="true" signature="5228:5324" ph="/* Turn on our line renderer ... */" />
-                <marker date="1506844984494" expanded="true" signature="5369:5451" ph="/* Deactivate our line renderer after waiting ... */" />
+                <marker date="1506846840372" expanded="true" signature="6:44" ph="..." />
+                <marker date="1506846840372" expanded="true" signature="83:5507" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="1640:2089" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="1655:1832" ph="/* Get and store a reference to our LineRenderer component ... */" />
+                <marker date="1506846840372" expanded="true" signature="2115:5108" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="2300:4344" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="2836:3035" ph="/* Set the start position for our visual effect for our laser to the position of gunEnd ... */" />
+                <marker date="1506846840372" expanded="true" signature="3128:4042" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="3159:3783" ph="/* Set the end position for our laser line ... */" />
+                <marker date="1506846840372" expanded="true" signature="3826:4028" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="4059:4334" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="4090:4320" ph="/* If we did not hit anything, set the end of the line to a position directly in front of the camera at the dista ... */" />
+                <marker date="1506846840372" expanded="true" signature="4387:5102" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="4771:5092" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="4828:5078" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="5147:5505" ph="{...}" />
+                <marker date="1506846840372" expanded="true" signature="5276:5372" ph="/* Turn on our line renderer ... */" />
+                <marker date="1506846840372" expanded="true" signature="5417:5499" ph="/* Deactivate our line renderer after waiting ... */" />
               </folding>
             </state>
           </provider>
@@ -85,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/BasicBeamShot/Script/BeamParam.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <marker date="1451501350000" expanded="false" signature="6:44" ph="..." />
                 <marker date="1451501350000" expanded="true" signature="85:747" ph="{...}" />
@@ -97,21 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiShooter.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MultiShooter.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/BasicBeamShot/Script/MultiShooter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="765">
+              <caret line="60" column="45" lean-forward="false" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
               <folding>
-                <marker date="1451501344000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1451501344000" expanded="true" signature="88:2015" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="275:297" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="315:2013" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="413:1005" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="1075:1502" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="1580:1877" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="1918:2010" ph="{...}" />
-                <marker date="1451501344000" expanded="true" signature="1945:2006" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="6:44" ph="..." />
+                <marker date="1506846565244" expanded="true" signature="88:2058" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="275:297" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="315:2056" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="413:1005" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="1075:1502" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="1580:1920" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="1961:2053" ph="{...}" />
+                <marker date="1506846565244" expanded="true" signature="1988:2049" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -210,6 +199,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/BasicBeamShot/Script/MultiShooter.cs" />
         <option value="$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs" />
       </list>
     </option>
@@ -408,6 +398,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7e2441d9-7584-40aa-8eb6-d6b7b0a6133c" name="Default" comment="" />
@@ -416,12 +409,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506524978311</updated>
       <workItem from="1506524980309" duration="235000" />
-      <workItem from="1506835428851" duration="6162000" />
+      <workItem from="1506835428851" duration="7188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6397000" />
+    <option name="totallyTimeSpent" value="7423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -812,37 +805,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="83" column="32" lean-forward="false" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
-          <folding>
-            <marker date="1506844984494" expanded="true" signature="6:44" ph="..." />
-            <marker date="1506844984494" expanded="true" signature="83:5459" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="1640:2089" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="1655:1832" ph="/* Get and store a reference to our LineRenderer component ... */" />
-            <marker date="1506844984494" expanded="true" signature="2115:5060" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="2300:4344" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="2836:3035" ph="/* Set the start position for our visual effect for our laser to the position of gunEnd ... */" />
-            <marker date="1506844984494" expanded="true" signature="3128:4042" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="3159:3783" ph="/* Set the end position for our laser line ... */" />
-            <marker date="1506844984494" expanded="true" signature="3826:4028" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="4059:4334" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="4090:4320" ph="/* If we did not hit anything, set the end of the line to a position directly in front of the camera at the dista ... */" />
-            <marker date="1506844984494" expanded="true" signature="4387:5054" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="4771:5044" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="4828:5030" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="5099:5457" ph="{...}" />
-            <marker date="1506844984494" expanded="true" signature="5228:5324" ph="/* Turn on our line renderer ... */" />
-            <marker date="1506844984494" expanded="true" signature="5369:5451" ph="/* Deactivate our line renderer after waiting ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/BasicBeamShot/Script/BeamParam.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <marker date="1451501350000" expanded="false" signature="6:44" ph="..." />
             <marker date="1451501350000" expanded="true" signature="85:747" ph="{...}" />
@@ -855,18 +821,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/BasicBeamShot/Script/MultiShooter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="765">
+          <caret line="60" column="45" lean-forward="false" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
           <folding>
-            <marker date="1451501344000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1451501344000" expanded="true" signature="88:2015" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="275:297" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="315:2013" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="413:1005" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="1075:1502" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="1580:1877" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="1918:2010" ph="{...}" />
-            <marker date="1451501344000" expanded="true" signature="1945:2006" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="6:44" ph="..." />
+            <marker date="1506846565244" expanded="true" signature="88:2058" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="275:297" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="315:2056" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="413:1005" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="1075:1502" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="1580:1920" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="1961:2053" ph="{...}" />
+            <marker date="1506846565244" expanded="true" signature="1988:2049" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CustomScripts/Shooting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="96" column="65" lean-forward="true" selection-start-line="96" selection-start-column="65" selection-end-line="96" selection-end-column="65" />
+          <folding>
+            <marker date="1506846840372" expanded="true" signature="6:44" ph="..." />
+            <marker date="1506846840372" expanded="true" signature="83:5507" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="1640:2089" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="1655:1832" ph="/* Get and store a reference to our LineRenderer component ... */" />
+            <marker date="1506846840372" expanded="true" signature="2115:5108" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="2300:4344" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="2836:3035" ph="/* Set the start position for our visual effect for our laser to the position of gunEnd ... */" />
+            <marker date="1506846840372" expanded="true" signature="3128:4042" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="3159:3783" ph="/* Set the end position for our laser line ... */" />
+            <marker date="1506846840372" expanded="true" signature="3826:4028" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="4059:4334" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="4090:4320" ph="/* If we did not hit anything, set the end of the line to a position directly in front of the camera at the dista ... */" />
+            <marker date="1506846840372" expanded="true" signature="4387:5102" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="4771:5092" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="4828:5078" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="5147:5505" ph="{...}" />
+            <marker date="1506846840372" expanded="true" signature="5276:5372" ph="/* Turn on our line renderer ... */" />
+            <marker date="1506846840372" expanded="true" signature="5417:5499" ph="/* Deactivate our line renderer after waiting ... */" />
           </folding>
         </state>
       </provider>

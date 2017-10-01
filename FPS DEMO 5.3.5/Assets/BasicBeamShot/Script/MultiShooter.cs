@@ -57,6 +57,8 @@ public class MultiShooter : MonoBehaviour {
 
 			NowShot.transform.localScale = s;
 			NowShot.GetComponent<BeamParam>().SetBeamParam(bp);
+			
+			GetComponent<AudioSource>().Play();
 		}
         if (Input.GetButtonUp ("Fire2"))
 		{
