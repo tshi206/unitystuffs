@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e2441d9-7584-40aa-8eb6-d6b7b0a6133c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/MainScene.unity" afterPath="$PROJECT_DIR$/Assets/MainScene.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller" afterPath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6e/6ea36ef7a00788340aa4961f12313cec" afterPath="$PROJECT_DIR$/Library/metadata/6e/6ea36ef7a00788340aa4961f12313cec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/ExampleScripts/CannonBehavior.cs" afterPath="$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/ExampleScripts/CannonBehavior.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/expandedItems" afterPath="$PROJECT_DIR$/Library/expandedItems" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -167,18 +157,18 @@
       <file leaf-file-name="CannonBehavior.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/ExampleScripts/CannonBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="615">
+              <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding>
-                <marker date="1506854911089" expanded="true" signature="6:44" ph="..." />
-                <marker date="1506854911089" expanded="true" signature="90:1289" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="330:338" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="393:929" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="435:514" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="554:632" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="702:896" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
-                <marker date="1506854911089" expanded="true" signature="944:1052" ph="{...}" />
-                <marker date="1506854911089" expanded="true" signature="1085:1287" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="6:44" ph="..." />
+                <marker date="1506855343505" expanded="true" signature="90:1278" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="356:386" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="440:1153" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="482:561" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="601:679" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="749:943" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+                <marker date="1506855343505" expanded="true" signature="972:1150" ph="{...}" />
+                <marker date="1506855343505" expanded="true" signature="1168:1276" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -252,8 +242,8 @@
       <file leaf-file-name="RaycastShoot.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../FPS DEMO/Assets/Let's Try Shooter/Scripts/RaycastShoot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="84" column="23" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="23" />
+            <state relative-caret-position="570">
+              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -498,12 +488,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506524978311</updated>
       <workItem from="1506524980309" duration="235000" />
-      <workItem from="1506835428851" duration="12254000" />
+      <workItem from="1506835428851" duration="13286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12489000" />
+    <option name="totallyTimeSpent" value="13521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -516,7 +506,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1111,26 +1100,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../FPS DEMO/Assets/Let's Try Shooter/Scripts/RaycastShoot.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="84" column="23" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="23" />
+        <state relative-caret-position="570">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VolumetricLines/ExampleScenes/ExampleScripts/CannonBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="615">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
           <folding>
-            <marker date="1506854911089" expanded="true" signature="6:44" ph="..." />
-            <marker date="1506854911089" expanded="true" signature="90:1289" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="330:338" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="393:929" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="435:514" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="554:632" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="702:896" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
-            <marker date="1506854911089" expanded="true" signature="944:1052" ph="{...}" />
-            <marker date="1506854911089" expanded="true" signature="1085:1287" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="6:44" ph="..." />
+            <marker date="1506855343505" expanded="true" signature="90:1278" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="356:386" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="440:1153" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="482:561" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="601:679" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="749:943" ph="/* if (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1506855343505" expanded="true" signature="972:1150" ph="{...}" />
+            <marker date="1506855343505" expanded="true" signature="1168:1276" ph="{...}" />
           </folding>
         </state>
       </provider>

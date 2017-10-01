@@ -2,3 +2,15 @@ sceneSetups:
 - path: Assets/MainScene.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/BasicBeamShot/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VolumetricLines/ExampleScenes/StaticLines.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/VolumetricLines/ExampleScenes/LaserCannon.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/JMO Assets/WarFX/Demo/WarFX Demo New.unity
+  isLoaded: 0
+  isActive: 0
