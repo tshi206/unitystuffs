@@ -78,6 +78,8 @@
     <Compile Include="Assets\BasicBeamShot\Script\ShotParticle_Scale.cs" />
     <Compile Include="Assets\CustomScripts\KyleController.cs" />
     <Compile Include="Assets\CustomScripts\MessageReceiver.cs" />
+    <Compile Include="Assets\CustomScripts\PickableObjController.cs" />
+    <Compile Include="Assets\CustomScripts\PickupController.cs" />
     <Compile Include="Assets\CustomScripts\Shooting.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_Demo_RandomDir.cs" />
