@@ -20,6 +20,8 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 												// このスイッチが入っていないとカーブは使われない
 	public float useCurvesHeight = 0.5f;		// カーブ補正の有効高さ（地面をすり抜けやすい時には大きくする）
 
+	public GameObject mainCamera;
+	
 	// 以下キャラクターコントローラ用パラメタ
 	// 前進速度
 	public float forwardSpeed = 7.0f;
@@ -58,7 +60,8 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 		col = GetComponent<CapsuleCollider>();
 		rb = GetComponent<Rigidbody>();
 		//メインカメラを取得する
-		cameraObject = GameObject.FindWithTag("MainCamera");
+		//cameraObject = GameObject.FindWithTag("MainCamera");
+		cameraObject = mainCamera;
 		// CapsuleColliderコンポーネントのHeight、Centerの初期値を保存する
 		orgColHight = col.height;
 		orgVectColCenter = col.center;
@@ -188,13 +191,13 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 
 	void OnGUI()
 	{
-		GUI.Box(new Rect(Screen.width -260, 10 ,250 ,150), "Interaction");
-		GUI.Label(new Rect(Screen.width -245,30,250,30),"Up/Down Arrow : Go Forwald/Go Back");
-		GUI.Label(new Rect(Screen.width -245,50,250,30),"Left/Right Arrow : Turn Left/Turn Right");
-		GUI.Label(new Rect(Screen.width -245,70,250,30),"Hit Space key while Running : Jump");
-		GUI.Label(new Rect(Screen.width -245,90,250,30),"Hit Spase key while Stopping : Rest");
-		GUI.Label(new Rect(Screen.width -245,110,250,30),"Left Control : Front Camera");
-		GUI.Label(new Rect(Screen.width -245,130,250,30),"Alt : LookAt Camera");
+		//GUI.Box(new Rect(Screen.width -260, 10 ,250 ,150), "Interaction");
+		//GUI.Label(new Rect(Screen.width -245,30,250,30),"Up/Down Arrow : Go Forwald/Go Back");
+		//GUI.Label(new Rect(Screen.width -245,50,250,30),"Left/Right Arrow : Turn Left/Turn Right");
+		//GUI.Label(new Rect(Screen.width -245,70,250,30),"Hit Space key while Running : Jump");
+		//GUI.Label(new Rect(Screen.width -245,90,250,30),"Hit Spase key while Stopping : Rest");
+		//GUI.Label(new Rect(Screen.width -245,110,250,30),"Left Control : Front Camera");
+		//GUI.Label(new Rect(Screen.width -245,130,250,30),"Alt : LookAt Camera");
 	}
 
 
