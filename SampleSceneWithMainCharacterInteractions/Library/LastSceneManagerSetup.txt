@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scifi Environment/SCIFI Enviro.unity
+  isLoaded: 1
+  isActive: 1
